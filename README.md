@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vijaylangdapure
-- 👀 I’m interested in ...Java,Manual Testing,Selenium
-- 🌱 I’m currently learning ...Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...msg on Facebook-Vijay Langdapure
+- 👀 I’m interested in Manual Testing, Automation Testing with Selenium Java
+- 🌱 I’m currently learning Java Programming
+- 💞️ I’m looking to collaborate on Automation Testing
+- 📫 How to reach me msg on Facebook-Vijay Langdapure
 
 <!---
 vijaylangdapure/vijaylangdapure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
